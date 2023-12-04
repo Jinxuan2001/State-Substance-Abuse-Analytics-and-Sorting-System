@@ -1,5 +1,6 @@
 # State-Substance-Abuse-Analytics-and-Sorting-System
 COP3530_Project3_Group81
+Team Members: Jinxuan Liu and Vijjeara Long
 
 Problem: 
 Substance abuse among various age groups presents a significant challenge to society, one that is made apparent through lack of awareness and knowledge on the pressing issue. There are not enough resources dedicated to research engines specializing in substance abuse in each state.
